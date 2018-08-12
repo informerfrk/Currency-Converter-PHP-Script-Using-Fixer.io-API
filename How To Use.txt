@@ -1,0 +1,20 @@
+
+To run this script at first get your API key from https://fixer.io/ by registering an account.
+
+
+Open fetch.php
+
+Put your API Key of fixer.io in between the double quotes of $api= "  api here ";
+
+
+(To get the API key  please create an account in fixer.io )
+
+
+Please check the API usage by logging in to your fixer.io account
+
+
+
+
+Developed by https://codespeedy.com
+
+

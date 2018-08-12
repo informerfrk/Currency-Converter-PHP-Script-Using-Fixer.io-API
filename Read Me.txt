@@ -1,0 +1,16 @@
+All the currency data are provide by fixer.io
+
+
+
+We have just used their API to build this script.
+
+
+If they stopped their services , This script will not be able work anymore and we will not be responsible for this.
+
+
+
+
+Thanks for choosing our product.
+
+
+Developed By CodeSpeedy.com
